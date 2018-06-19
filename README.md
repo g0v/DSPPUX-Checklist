@@ -1,19 +1,23 @@
 # 資訊安全與隱私保護的 UX 檢核表 (DSPPUX-Checklist)
 
-這份檢核表的設計目的，在於針對為敏感社群開發工具時，應如何增強資安與隱私保護的建議。目標在把他改成 g0v grant 獎助金的得獎作品可以遵守的準則。
+這份檢核表的設計目的，在於針對為敏感社群開發工具時，應如何增強資安與隱私保護的建議。
 
 * * *
 
 ### 第一階段：研究與構思
-	Before you start building the tool, platform, or technology, you want to know the people who will be using them. You need to collect and analyze information from your stakeholders and research participants. 
+	在你開始打造工具、平台或科技產品前，你會希望能了解你的使用者。「使用者研究」通常包括收集、分析各種潛在的使用者（和研究對象）的意見、資訊和行為。
 
-1.  User research involves many methods — interviews, ethnographic field research, focus groups, surveys, etc.<sup>[1]</sup>. — nearly all of them mean you need to gather information from others. It will be your job to protect them and their information.
-###### *Answer the following to gauge how you are doing.*
- ##### Communications and Information Gathering
+
+1.  「使用者研究」牽涉許多不同的方法——訪談、人類學田野、焦點團體、問卷等等<sup>[1]</sup>——幾乎所有的方法，都會需要收集到其他人的資料，而此時你就需要思考如何保護研究對象的資訊。
+
+###### *回答下列問題來評估你的做得如何！*
+ ##### 通訊與資訊收集
  
- ☐ I have assessed the risks of how I am storing information from my research subjects in 
-     digital mediums (e.g. storing notes in cloud-based software, or on a hard drive).
-     I store these notes in the following spaces ___________________________
+ ☐ 針對如何儲存研究對象的資訊，我已評估過目前方法的潛在風險，包括：
+     
+	 數位的筆記（例如我儲存我的筆記在雲端平台，或是在我的硬碟裡）
+	 
+	 我把這些研究筆記儲存在 ___________________________
      
      ☐ The medium I store notes in is relatively secure — it is end-to-end encrypted, and difficult 
      for third parties to access (such as law enforcement requests).
@@ -25,17 +29,20 @@
      
      ☐ If I have identifiable information about my participants, I have thought about where I 
      will store this information. I have created a plan for keeping this information safe.
+	 如果我的專案有收集使用者或參與者的識別資料，我已經有仔細想過如何儲存這些資料，並建立一套確保資料安全的計畫。
      
      ☐ I have a list of topics I should not ask my intended audience about. 
+	 我有一個「這些資料不該詢問使用者」的列表。
      
      ☐ I know the kinds of topics I should keep off-record.
+	 我知道哪些資料我應該完全不儲存。
      
-| Tips 		    |
+| 小提醒		    |
 | ------------- |
-| *Comms and Info Gathering:*      | 
-| [a] Always use end-to-end encrypted channels when you can, and train your contact to securely contact you. |
-|[b] Secure the data you keep and pay attention to protecting the identities of people in your research.
-|[c] If metadata is a concern for your audience (e.g. having evidence of you and the contact chatting or calling), do you have an alternate method of communicating?|
+| *通訊與資訊收集:*      | 
+| [a] Always use end-to-end encrypted channels when you can, and train your contact to securely contact you. 如果可能，永遠使用點對點加密的頻道，並且引導你的研究對象與夥伴使用加密頻道與你聯繫。|
+|[b] Secure the data you keep and pay attention to protecting the identities of people in your research.在初期研究階段的時候，記得保護你的資料，並隨時注意如何保護研究對象的身份識別資料。
+|[c] If metadata is a concern for your audience (e.g. having evidence of you and the contact chatting or calling), do you have an alternate method of communicating? 如果溝通過程中產生的 metadata 可能會危及到你的研究對象，例如，產生了你與某人通話、聊天的證據，你是否有想過替代的通訊方案？|
      
  ##### Due Diligence
 ☐ I have a trusted network to vet my research subjects.
