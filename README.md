@@ -1,10 +1,10 @@
-# Digital Security and Privacy Protection UX Checklist (DSPPUX-Checklist)
+# 資訊安全與隱私保護的 UX 檢核表 (DSPPUX-Checklist)
 
-This checklist provides suggestions to promote digital security and privacy for people who are designing and developing tools for targeted communities.
+這份檢核表的設計目的，在於針對為敏感社群開發工具時，應如何增強資安與隱私保護的建議。目標在把他改成 g0v grant 獎助金的得獎作品可以遵守的準則。
 
 * * *
 
-### PHASE I Research and Ideation
+### 第一階段：研究與構思
 	Before you start building the tool, platform, or technology, you want to know the people who will be using them. You need to collect and analyze information from your stakeholders and research participants. 
 
 1.  User research involves many methods — interviews, ethnographic field research, focus groups, surveys, etc.<sup>[1]</sup>. — nearly all of them mean you need to gather information from others. It will be your job to protect them and their information.
@@ -17,9 +17,11 @@ This checklist provides suggestions to promote digital security and privacy for 
      
      ☐ The medium I store notes in is relatively secure — it is end-to-end encrypted, and difficult 
      for third parties to access (such as law enforcement requests).
+	 我儲存筆記的工具是相對安全的 - 是點對點加密且第三方很難輕易取得（包括執法單位要求）
      
      ☐ My research does not create a digital paper trail. (For instance, I consider how metadata, 
      like the times we have contacted each other, can expose at-risk users.)
+	 我的研究過程不會留下數位的足跡。（例如，我已審慎考慮過關於我與其他人討論的 metadata，像是時間戳記等，可能會讓某些人暴露在風險中）
      
      ☐ If I have identifiable information about my participants, I have thought about where I 
      will store this information. I have created a plan for keeping this information safe.
